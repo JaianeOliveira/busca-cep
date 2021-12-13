@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge 28</title>
+
+    <link href="./styles.css" rel="stylesheet" />
+</head>
+
+<body>
+    <h1>Busca CEP</h1>
+    <form>
+        <input type="text" placeholder="Digite o CEP" data-js="cepInput"  />
+        <button type="submit" data-js="btnBuscar">Buscar</button>
+    </form>
+    <div class="statusDiv">
+        <p class="statusTitle">Status da requisição</p>
+        <p data-js="reqStatus">Aguardando um CEP</p>
+    </div>
+    <div>
+        <table>
+            <tr>
+                <th class="tableTitle">Logradouro</th>
+                <th class="tableTitle">Bairro</th>
+                <th class="tableTitle">Estado</th>
+                <th class="tableTitle">Cidade</th>
+                <th class="tableTitle">CEP</th>
+            </tr>
+            <tr>
+                <td data-js="logradouro" class="tableContent"></td>
+                <td data-js="bairro" class="tableContent"></td>
+                <td data-js="estado" class="tableContent"></td>
+                <td data-js="cidade" class="tableContent"></td>
+                <td data-js="cep" class="tableContent"></td>
+            </tr>
+        </table>
+
+    </div>
+
+    <script src="./index.js"></script>
+    <script src="./DOM.js"></script>
+</body>
+
+</html>

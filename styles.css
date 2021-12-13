@@ -1,0 +1,93 @@
+:root{
+    --cor1: #E1C340;
+    --cor2: #4CD7D0;
+    --cor3: #F8EA8C;
+    --cor4: #A4E8E0;
+    --text: #282120;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: var(--text);
+    margin-bottom: 30px;
+}
+body{
+    background: var(--cor1);
+    color: var(--text);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
+
+input{
+    border: none;
+    height: 40px;
+    width: 40vw;
+    background: white;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 30px;
+
+}
+
+input:focus{
+    outline: none;
+}
+button{
+    background: var(--cor2);
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+button:active{
+    filter: brightness(0.9);
+}
+
+.statusDiv{
+    background: var(--cor3);
+    width: 50vw;
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+.statusTitle{
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+table{
+    border-collapse: collapse;
+    width: 50vw;
+    
+}
+
+th, td{
+    text-align: left;
+    padding: 8px;
+    border: 1px solid var(--cor2);
+}
+
+th{
+    background: var(--cor4);
+    height: 40px;
+}
+td{
+    background: #F3F5F9;
+    height: 70px;
+    
+}
