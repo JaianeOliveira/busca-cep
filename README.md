@@ -4,7 +4,7 @@ Buscador de CEP feito com HTML, CSS e JavaScript.
 Veja o resultado [aqui](https://jaianeoliveira.github.io/busca-cep/).
 ## Screenshots
 
-![App Screenshot](https://lh3.googleusercontent.com/PS8qKrAxTC0X5ZJ035y-4fjnU_R-LNedHXneyMyC-cw5Iw3LiXRWqNH510kARfGPIc-toP2ptBFasaI5sh-7laTL3pWEh6PbQesHazBqNN2Vvb5RxmbPTUysinBMsAkqyyk6AdRqb_YqPYN4joLFyZRy9I3O1zXp8uYUi0sbxEo1oIQmQlBndpSle-_NSr42-fZhxdrBxQDBmBuxE9PZreUgTFS8M4hJNYE-AU1rd2rlaBltHzDxEC6nGl7kt8NWteeokCd9tBmVczxaTNu0J2lwHYrMlTpTnt4LE_-Rc_u4ClFnZ0jXUpxOiBMSTQ4GBVDrgIv--urYDt1v4pHYkAFi3eHaMuUBY2ZGVGxQGlGB5jkUpXcT51LGRsBJ-D9geTeDR1N1rAfCWWMYvWM_snMvEs9QHsm9yeixSrxuXNxqFT0vWL07rgHnv8zPYZI9b_nFnAp0zgJ2B_vOLe5MZH2VSG5pW7SxVtW2NjNT-nryfQo2_bO7aoXw8SWxulADim2GJS19VqqV01W-PygO-rrzuqFD-Y9dFzCdcr5YiGYtsNDPe4NVLgzspNfRBo39VNAUvRRRlutjLCbFFm9scpGotK9oVSNNz2QBC783XbgXdiuE5PmhcBY_1OBygjO4RiUYOmwlsPAm6XtIOxx0lI-jUVLvjOBIKrRUe-fKkxUz5fO7c6w38XYRYJtatKNDGh8Zuk4DojSAXPEN0USb5vJJYgZ26sxFTxYhDk4l_itsptgSuHGXysaqcK2M=w1920-h887-no?authuser=0)
+![App Screenshot](https://github.com/JaianeOliveira/archive/blob/main/busca-cep/Captura%20de%20tela%202022-03-21%20142518.png)
 
 
 ## Autores
